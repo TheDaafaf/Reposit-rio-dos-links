@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL 4K" group-title="INFORMATIVOS",CNN BRASIL 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231452|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS 4K" group-title="INFORMATIVOS",GLOBO NEWS 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231460|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS 4K" group-title="INFORMATIVOS",JOVEM PAN NEWS 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231463|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP 4K" group-title="⭐ 4K",GLOBO SP 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231461|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - SÃO PAULO HD" group-title="⭐ GLOBO CAPITAL",GLOBO SP - SÃO PAULO HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/234262|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP 4K" group-title="⭐ 4K",SBT SP 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231469|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#sbt-sao-paulo" tvg-name="SBT SP - SÃO PAULO HD" group-title="SBT CAPITAL",SBT SP - SÃO PAULO HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/234368|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#sbt-acre" tvg-name="SBT AC - TV RIO BRANCO HD" group-title="SBT CAPITAL",SBT AC - TV RIO BRANCO HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/234320|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE 4K" group-title="⭐ 4K",COMBATE 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231453|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN 4K" group-title="⭐ 4K",ESPN 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231459|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV 4K" group-title="⭐ 4K",SPORTV 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231470|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="PREMIERE CLUBES 4K" group-title="⭐ 4K",PREMIERE CLUBES 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231467|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO 4K" group-title="⭐ 4K",HBO 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231490|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="MEGAPIX 4K" group-title="⭐ 4K",MEGAPIX 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231465|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM 4K" group-title="⭐ 4K",TELECINE PREMIUM 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231473|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION 4K" group-title="⭐ 4K",TELECINE ACTION 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231471|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA 4K" group-title="⭐ 4K",TELECINE PIPOCA 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231472|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#tnt-hd" tvg-name="TNT 4K" group-title="⭐ 4K",TNT 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231474|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" group-title="FILMES",CINEMAX HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231502|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="VIVA 4K" group-title="⭐ 4K",VIVA 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231478|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#gnt-hd" tvg-name="GNT 4K" group-title="⭐ 4K",GNT 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231462|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="MULTISHOW 4K" group-title="⭐ 4K",MULTISHOW 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231466|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV 4K" group-title="⭐ 4K",UNIVERSAL TV 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231476|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN 4K" group-title="⭐ 4K",AXN 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231449|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="COMEDY CENTRAL 4K" group-title="⭐ 4K",COMEDY CENTRAL 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231454|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT SERIES 4K" group-title="⭐ 4K",TNT SERIES 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231475|http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
