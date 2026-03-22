@@ -1,0 +1,130 @@
+#EXTM3U
+# --- CANAIS ABERTOS E NOTÍCIAS (4K E REGIONAIS) ---
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP 4K" group-title="⭐ 4K",GLOBO SP 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231461
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - SAO PAULO SD" group-title="GLOBO CAPITAL",GLOBO SP - SAO PAULO SD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/234263
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - SÃO PAULO HD" group-title="GLOBO CAPITAL",GLOBO SP - SÃO PAULO HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/234262
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO SP - SAO PAULO FHD" group-title="GLOBO CAPITAL",GLOBO SP - SAO PAULO FHD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/234261
+#EXTINF:-1 tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - AMAZONICA RIO BRANCO SD" group-title="GLOBO CAPITAL",GLOBO AC - AMAZONICA RIO BRANCO SD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/234196
+#EXTINF:-1 tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - AMAZONICA RIO BRANCO HD" group-title="GLOBO CAPITAL",GLOBO AC - AMAZONICA RIO BRANCO HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/234195
+#EXTINF:-1 tvg-id="br#rede-amazonica-rio-branco" tvg-name="GLOBO AC - AMAZONICA RIO BRANCO FHD" group-title="GLOBO CAPITAL",GLOBO AC - AMAZONICA RIO BRANCO FHD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/234194
+#EXTINF:-1 tvg-id="br#sbt-s-o-paulo" tvg-name="SBT SP 4K" group-title="⭐ 4K",SBT SP 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231469
+#EXTINF:-1 tvg-id="br#sbt-sao-paulo" tvg-name="SBT SP - SÃO PAULO HD" group-title="SBT CAPITAL",SBT SP - SÃO PAULO HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/234368
+#EXTINF:-1 tvg-id="br#sbt-acre" tvg-name="SBT AC - TV RIO BRANCO HD" group-title="SBT CAPITAL",SBT AC - TV RIO BRANCO HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/234320
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL 4K" group-title="INFORMATIVOS",CNN BRASIL 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231452
+
+# --- ESPORTES (SPORTV, PREMIERE, ESPN) ---
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV 4K" group-title="⭐ 4K",SPORTV 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231470
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD" group-title="ESPORTES",SPORTV HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231580
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SPORTV 2 HD" group-title="ESPORTES",SPORTV 2 HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231579
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SPORTV 3 HD" group-title="ESPORTES",SPORTV 3 HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231578
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="PREMIERE CLUBES 4K" group-title="⭐ 4K",PREMIERE CLUBES 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231467
+#EXTINF:-1 tvg-id="br#premiere-2-hd" tvg-name="PREMIERE 2 HD" group-title="PREMIERE",PREMIERE 2 HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231649
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN 4K" group-title="⭐ 4K",ESPN 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231459
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN HD" group-title="ESPORTES",ESPN HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231577
+#EXTINF:-1 tvg-id="br#espn-2-hd" tvg-name="ESPN 2 HD" group-title="ESPORTES",ESPN 2 HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231576
+#EXTINF:-1 tvg-id="br#espn-3-hd" tvg-name="ESPN 3 HD" group-title="ESPORTES",ESPN 3 HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231575
+#EXTINF:-1 tvg-id="br#espn-4-hd" tvg-name="ESPN 4 HD" group-title="ESPORTES",ESPN 4 HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231574
+
+# --- FILMES E VARIADADES ---
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="MEGAPIX 4K" group-title="⭐ 4K",MEGAPIX 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231465
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="MEGAPIX SD" group-title="FILMES",MEGAPIX SD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231526
+#EXTINF:-1 tvg-id="br#tnt-hd" tvg-name="TNT 4K" group-title="⭐ 4K",TNT 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231474
+#EXTINF:-1 tvg-id="br#tnt-hd" tvg-name="TNT HD" group-title="FILMES",TNT HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231518
+#EXTINF:-1 tvg-id="br#space-hd" tvg-name="SPACE HD" group-title="FILMES",SPACE HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231519
+#EXTINF:-1 tvg-id="br#warner-channel-hd" tvg-name="WARNER CHANNEL HD" group-title="FILMES",WARNER CHANNEL HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231500
+#EXTINF:-1 tvg-id="br#paramount-network-hd" tvg-name="PARAMOUNT NETWORK HD" group-title="FILMES",PARAMOUNT NETWORK HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231499
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO 4K" group-title="FILMES",HBO 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231490
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" group-title="FILMES",CINEMAX HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231502
+
+# --- VIVA E UNIVERSAL TV ---
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="VIVA 4K" group-title="⭐ 4K",VIVA 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231478
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="VIVA SD" group-title="VARIEDADES",VIVA SD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231535
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="VIVA HD" group-title="VARIEDADES",VIVA HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231534
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="VIVA FHD" group-title="VARIEDADES",VIVA FHD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231533
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV 4K" group-title="⭐ 4K",UNIVERSAL TV 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231476
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV SD" group-title="VARIEDADES",UNIVERSAL TV SD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231532
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV HD" group-title="VARIEDADES",UNIVERSAL TV HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231531
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="UNIVERSAL TV FHD" group-title="VARIEDADES",UNIVERSAL TV FHD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231530
+
+# --- PACOTE TELECINE COMPLETO ---
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM 4K" group-title="⭐ 4K",TELECINE PREMIUM 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231473
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM FHD" group-title="TELECINE",TELECINE PREMIUM FHD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231503
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM HD" group-title="TELECINE",TELECINE PREMIUM HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438059
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="TELECINE PREMIUM SD" group-title="TELECINE",TELECINE PREMIUM SD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438061
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA 4K" group-title="⭐ 4K",TELECINE PIPOCA 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231472
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA FHD" group-title="TELECINE",TELECINE PIPOCA FHD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438063
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA HD" group-title="TELECINE",TELECINE PIPOCA HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438065
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="TELECINE PIPOCA SD" group-title="TELECINE",TELECINE PIPOCA SD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438067
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION 4K" group-title="⭐ 4K",TELECINE ACTION 4K
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231471
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION FHD" group-title="TELECINE",TELECINE ACTION FHD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438069
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION HD" group-title="TELECINE",TELECINE ACTION HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438071
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="TELECINE ACTION SD" group-title="TELECINE",TELECINE ACTION SD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438073
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="TELECINE FUN FHD" group-title="TELECINE",TELECINE FUN FHD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438075
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="TELECINE FUN HD" group-title="TELECINE",TELECINE FUN HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231505
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="TELECINE FUN SD" group-title="TELECINE",TELECINE FUN SD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438077
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="TELECINE TOUCH FHD" group-title="TELECINE",TELECINE TOUCH FHD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438079
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="TELECINE TOUCH HD" group-title="TELECINE",TELECINE TOUCH HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231506
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="TELECINE TOUCH SD" group-title="TELECINE",TELECINE TOUCH SD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438081
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="TELECINE CULT FHD" group-title="TELECINE",TELECINE CULT FHD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438083
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="TELECINE CULT HD" group-title="TELECINE",TELECINE CULT HD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231504
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="TELECINE CULT SD" group-title="TELECINE",TELECINE CULT SD
+http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438085
