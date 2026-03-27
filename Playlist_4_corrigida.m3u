@@ -1,0 +1,114 @@
+#EXTM3U
+# ⭐ 4K
+#EXTINF:-1 tvg-id="15" tvg-name="Animal Planet FHD" tvg-logo="http://mainxs.site:80/images/9146beb5a8679314d618ccca35f3352e.jpg" group-title="Canais | Documentarios",Animal Planet FHD
+http://mainxs.site:80/718862248/849785554/4.ts
+
+#EXTINF:-1 tvg-id="79" tvg-name="AXN FHD" tvg-logo="http://mainxs.site:80/images/222a5166cc03d1e970a8e7c36a55cdcf.png" group-title="Canais | Filmes & Séries",AXN FHD
+http://mainxs.site:80/718862248/849785554/6.ts
+
+#EXTINF:-1 tvg-id="174" tvg-name="BAND SP FHD" tvg-logo="https://braziljournal.com/wp-content/uploads/2022/06/164bcbd7-9e1a-b098-6489-da08bb218aac-857x482.jpg?x26523" group-title="Canais | Band",BAND SP FHD
+http://mainxs.site:80/718862248/849785554/327.ts
+
+#EXTINF:-1 tvg-id="174" tvg-name="BAND AC FHD" tvg-logo="https://braziljournal.com/wp-content/uploads/2022/06/164bcbd7-9e1a-b098-6489-da08bb218aac-857x482.jpg?x26523" group-title="Canais | Band",BAND AC FHD
+http://mainxs.site:80/718862248/849785554/336.ts
+
+#EXTINF:-1 tvg-id="35" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://mainxs.site:80/images/64e837f401f8f3c7e7eb3b0b72a44da5.png" group-title="Canais | Infantil",CARTOON NETWORK FHD
+http://mainxs.site:80/718862248/849785554/18.ts
+
+#EXTINF:-1 tvg-id="137" tvg-name="CNN BRASIL FHD" tvg-logo="http://mainxs.site:80/images/3f1695f2d0f5076f7b9bc5b3e21074e6.jpg" group-title="Canais | Noticias",CNN BRASIL FHD
+http://mainxs.site:80/718862248/849785554/22.ts
+
+#EXTINF:-1 tvg-id="112" tvg-name="COMBATE FHD" tvg-logo="http://mainxs.site:80/images/9924e2c0e86b2450410023475d697843.jpg" group-title="Canais | Esportes",COMBATE FHD
+http://mainxs.site:80/718862248/849785554/23.ts
+
+#EXTINF:-1 tvg-id="110" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://mainxs.site:80/images/635a962a9ca17ea18b2c2c99a61179be.jpg" group-title="Canais | Filmes & Séries",COMEDY CENTRAL FHD
+http://mainxs.site:80/718862248/849785554/24.ts
+
+#EXTINF:-1 tvg-id="16" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://mainxs.site:80/images/73507316719544c06020525287e07a78.jpg" group-title="Canais | Documentarios",DISCOVERY CHANNEL FHD
+http://mainxs.site:80/718862248/849785554/25.ts
+
+#EXTINF:-1 tvg-id="18" tvg-name="DISCOVERY H&H FHD" tvg-logo="http://mainxs.site:80/images/8ec1f9a263c96700c99dfbc227a6f254.jpg" group-title="Canais | Variedades",DISCOVERY H&H FHD
+http://mainxs.site:80/718862248/849785554/28.ts
+
+#EXTINF:-1 tvg-id="17" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://mainxs.site:80/images/e77353f81e7d23d8723910c66060c4bc.jpg" group-title="Canais | Variedades",DISCOVERY TURBO FHD
+http://mainxs.site:80/718862248/849785554/31.ts
+
+#EXTINF:-1 tvg-id="103" tvg-name="ESPN FHD" tvg-logo="http://mainxs.site:80/images/e8c255ec437be9fbc8975949d2165cd9.png" group-title="Canais | Esportes",ESPN FHD
+http://mainxs.site:80/718862248/849785554/34.ts
+
+#EXTINF:-1 tvg-id="8" tvg-name="GLOBO NEWS FHD" tvg-logo="http://mainxs.site:80/images/8f4112e4f71a08453ccf152140d046f5.png" group-title="Canais | Noticias",GLOBO NEWS FHD
+http://mainxs.site:80/718862248/849785554/53.ts
+
+#EXTINF:-1 tvg-id="br#gnt-hd" tvg-name="GNT FHD" tvg-logo="https://img.onetv.plus/icones_channels/GNT_HD.png" group-title="Canais | Variedades",GNT FHD
+http://mainxs.site:80/718862248/849785554/56.ts
+
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="http://mainxs.site:80/images/a618d3600f6b4d360a00636605010640.png" group-title="Canais | HBO",HBO FHD
+http://mainxs.site:80/718862248/849785554/57.ts
+
+#EXTINF:-1 tvg-id="br#hgtv-hd" tvg-name="HGTV FHD" tvg-logo="https://img.onetv.plus/icones_channels/HGTV.png" group-title="Canais | Variedades",HGTV FHD
+http://mainxs.site:80/718862248/849785554/66.ts
+
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://img.onetv.plus/icones_channels/JOVEM_PAN_NEWS.png" group-title="Canais | Noticias",JOVEM PAN NEWS FHD
+http://mainxs.site:80/718862248/849785554/67.ts
+
+#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="MEGAPIX FHD" tvg-logo="https://img.onetv.plus/icones_channels/MEGAPIX_HD.png" group-title="Canais | Filmes & Séries",MEGAPIX FHD
+http://mainxs.site:80/718862248/849785554/74.ts
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://mainxs.site:80/images/cinemax.png" group-title="Canais | Filmes & Séries",CINEMAX FHD
+http://mainxs.site:80/718862248/849785554/21.ts
+
+#EXTINF:-1 tvg-id="br#multishow-hd" tvg-name="MULTISHOW FHD" tvg-logo="https://img.onetv.plus/icones_channels/MULTISHOW_HD.png" group-title="Canais | Variedades",MULTISHOW FHD
+http://mainxs.site:80/718862248/849785554/78.ts
+
+#EXTINF:-1 tvg-id="111" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpetwv2fyPyfeaTCEbHuK4TdPpDr4Njtllww&s" group-title="Canais | Premiere",PREMIERE CLUBES FHD
+http://mainxs.site:80/718862248/849785554/88.ts
+
+#EXTINF:-1 tvg-id="br#redetv-hd" tvg-name="REDE TV FHD" tvg-logo="https://img.onetv.plus/icones_channels/REDE_TV_HD.png" group-title="Canais | Variedades",REDE TV FHD
+http://mainxs.site:80/718862248/849785554/104.ts
+
+#EXTINF:-1 tvg-id="171" tvg-name="SBT SP FHD" tvg-logo="https://img.onetv.plus/icones_channels/SBT_FHD.png" group-title="Canais | SBT",SBT SP FHD
+http://mainxs.site:80/718862248/849785554/127.ts
+
+#EXTINF:-1 tvg-id="171" tvg-name="SBT AC 4K" tvg-logo="https://img.onetv.plus/icones_channels/SBT_FHD.png" group-title="Canais | SBT",SBT AC 4K
+http://mainxs.site:80/718862248/849785554/114.ts
+
+#EXTINF:-1 tvg-id="TELECINE ACTION 4K" tvg-name="TELECINE ACTION 4K" group-title="Canais | Telecine",TELECINE ACTION 4K
+http://mainxs.site:80/718862248/849785554/142.ts
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA 4K" tvg-name="TELECINE PIPOCA 4K" group-title="Canais | Telecine",TELECINE PIPOCA 4K
+http://mainxs.site:80/718862248/849785554/146.ts
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM 4K" tvg-name="TELECINE PREMIUM 4K" group-title="Canais | Telecine",TELECINE PREMIUM 4K
+http://mainxs.site:80/718862248/849785554/150.ts
+
+#EXTINF:-1 tvg-id="TELECINE FUN 4K" tvg-name="TELECINE FUN 4K" group-title="Canais | Telecine",TELECINE FUN 4K
+http://mainxs.site:80/718862248/849785554/154.ts
+
+#EXTINF:-1 tvg-id="TELECINE CULT 4K" tvg-name="TELECINE CULT 4K" group-title="Canais | Telecine",TELECINE CULT 4K
+http://mainxs.site:80/718862248/849785554/158.ts
+
+#EXTINF:-1 tvg-id="br#tnt-hd" tvg-name="TNT FHD" tvg-logo="https://img.onetv.plus/icones_channels/TNT_HD.png" group-title="Canais | Filmes & Séries",TNT FHD
+http://mainxs.site:80/718862248/849785554/162.ts
+
+#EXTINF:-1 tvg-id="br#tnt-series-hd" tvg-name="TNT SERIES FHD" tvg-logo="https://img.onetv.plus/icones_channels/TNT_Series_HD.png" group-title="Canais | Filmes & Séries",TNT SERIES FHD
+http://mainxs.site:80/718862248/849785554/165.ts
+
+#EXTINF:-1 tvg-id="br#universal-hd" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://img.onetv.plus/icones_channels/Universal_HD.png" group-title="Canais | Filmes & Séries",UNIVERSAL TV FHD
+http://mainxs.site:80/718862248/849785554/167.ts
+
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="VIVA FHD" tvg-logo="https://img.onetv.plus/icones_channels/VIVA_HD.png" group-title="Canais | Variedades",VIVA FHD
+http://mainxs.site:80/718862248/849785554/169.ts
+
+#EXTINF:-1 tvg-id="173" tvg-name="GLOBO AC - RIO BRANCO FHD" tvg-logo="http://mainxs.site:80/images/e7e937d5598692341951f28b264906a2.jpg" group-title="Canais | Globo",GLOBO AC - RIO BRANCO FHD
+http://mainxs.site:80/718862248/849785554/335.ts
+
+#EXTINF:-1 tvg-id="173" tvg-name="GLOBO SP - SAO PAULO FHD" tvg-logo="http://mainxs.site:80/images/e7e937d5598692341951f28b264906a2.jpg" group-title="Canais | Globo",GLOBO SP - SAO PAULO FHD
+http://mainxs.site:80/718862248/849785554/55.ts
+
+# ⭐ GLOBO NORTE
+
+#EXTINF:-1 tvg-id="172" tvg-name="RECORD AC - ACRE FHD" tvg-logo="http://mainxs.site:80/images/c3b1675271a06709f7a73f840901e3e6.png" group-title="Canais | Record",RECORD AC - ACRE FHD
+http://mainxs.site:80/718862248/849785554/337.ts
+
+#EXTINF:-1 tvg-id="172" tvg-name="RECORD SP - SAO PAULO FHD" tvg-logo="http://mainxs.site:80/images/c3b1675271a06709f7a73f840901e3e6.png" group-title="Canais | Record",RECORD SP - SAO PAULO FHD
+http://mainxs.site:80/718862248/849785554/103.ts
